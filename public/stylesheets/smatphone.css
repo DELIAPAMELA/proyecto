@@ -1,0 +1,16 @@
+body{
+	background: #333;
+}
+#page-wrap:after{
+	content: none;
+
+}
+h2 span,section h3{
+	display: none;
+}
+body {
+	font-size: xx-lalarge;
+}
+footer,input{
+	font-size: large; 
+}
